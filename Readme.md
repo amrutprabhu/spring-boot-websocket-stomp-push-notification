@@ -5,3 +5,5 @@ to a client using websockets. We make use of STOMP protocol over the Websocket c
 to send notifications.
 
 You can read in detail about this on my site: [https://refactorfirst.com](https://refactorfirst.com/spring-boot-websockets-stomp-notifications)
+
+Websocket security : https://docs.spring.io/spring-security/site/docs/4.2.x/reference/html/websocket.html#websocket-authentication
